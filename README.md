@@ -31,3 +31,18 @@ Starting Caravel Design Project
         $ make setup
 
 > Step 3: 
+
+```
+vasanthi@vasanthi-VirtualBox:~/Desktop/caravel_tutorial/caravel_test$ make user_proj_example
+
+vasanthi@vasanthi-VirtualBox:~/Desktop/caravel_tutorial/caravel_test$ find openlane/user_proj_example/runs/user_proj_example/ | wc -l
+
+```
+
+```
+
+vasanthi@vasanthi-VirtualBox:~/Desktop/caravel_tutorial/caravel_test$ tree openlane/user_proj_example/runs/user_proj_example/
+
+```  
+
+
